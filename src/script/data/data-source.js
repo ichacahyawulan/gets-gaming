@@ -3,7 +3,7 @@ class DataSource {
     const options = {
       method: 'GET',
       headers: {
-        'X-RapidAPI-Key': '01ff28d0c3msh9a75264b511cf27p1e0094jsn4eb9dd6e2c22',
+        'X-RapidAPI-Key': '[Insert your RapidAPI Key]',
         'X-RapidAPI-Host': 'mmo-games.p.rapidapi.com'
       }
     };
